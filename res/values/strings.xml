@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">BloodBank</string>
+    <string name="welcome">Welcome</string>
+
+    <string-array name="city_arrays">
+        <item>Agra</item>
+        <item>Vadodara</item>
+        <item>Bhopal</item>
+        <item>Chennai</item>
+        <item>Delhi</item>
+        <item>Dewas</item>
+        <item>Faridabad</item>
+        <item>Goa</item>
+        <item>Hyderabad</item>
+        <item>Indore</item>
+        <item>Khargone</item>
+        <item>Khandwa</item>
+        <item>Ujjain</item>
+    </string-array>
+
+    <string-array name="bg_arrays">
+        <item>A+</item>
+        <item>B+</item>
+        <item>O+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>O-</item>
+        <item>AB-</item>
+    </string-array>
+
+    <string-array name="city_0">
+        <item>Bajrang Nagar</item>
+        <item>Bodla</item>
+        <item>Loha Mandi</item>
+        <item>Gokul Nagar</item>
+    </string-array>
+
+    <string-array name="city_1">
+        <item>Habibganj</item>
+        <item>Naria Kheda</item>
+        <item>Khanugaon</item>
+        <item>Chitragupta Nagar</item>
+
+    </string-array>
+    <string-array name="city_2">
+        <item>Nandnam</item>
+        <item>Vepery</item>
+        <item>Sathya Nagar</item>
+        <item>Anbu Nagar</item>
+
+    </string-array>
+    <string-array name="city_3">
+        <item>Gurgaon</item>
+        <item>Airport</item>
+        <item>Nihal Vihar</item>
+        <item>Chandni Chowk</item>
+        <item>Pahadganj</item>
+        <item>Rajghat</item>
+        <item>Lajpat Nagar</item>
+    </string-array>
+
+    <string-array name="city_4">
+        <item>Tilpat</item>
+        <item>Arangpur</item>
+        <item>Tajpur</item>
+        <item>Press Colony</item>
+
+    </string-array>
+    <string-array name="city_5">
+        <item>Pernem</item>
+        <item>Valpor</item>
+        <item>Pirla</item>
+        <item>Panjim</item>
+
+    </string-array>
+    <string-array name="city_6">
+        <item>Secundarabad</item>
+        <item>Ismail Nagar</item>
+        <item>HCL Colony</item>
+        <item>Appa</item>
+
+    </string-array>
+    <string-array name="city_7">
+        <item>Palasia</item>
+        <item>Bangali Square</item>
+        <item>Vijay Nagar</item>
+        <item>Mhow Naka</item>
+        <item>Rajendra Nagar</item>
+        <item>Annapurna</item>
+    </string-array>
+    <string-array name="city_8">
+        <item>Nikas Square</item>
+        <item>Tower Square</item>
+        <item>ISKON</item>
+        <item>Harsiddhi Temple</item>
+
+    </string-array>
+    <string-array name="city_9">
+        <item>Awas Nagar</item>
+        <item>Balaji Nagar</item>
+        <item>Jawahar Chowk</item>
+        <item>Shivaji Nagar</item>
+
+    </string-array>
+    <string-array name="city_10">
+        <item>Anand Nagar</item>
+        <item>Rameshwar Nagar</item>
+        <item>Vidhuth Nagar</item>
+        <item>District Jail</item>
+
+    </string-array>
+    <string-array name="city_11">
+        <item>Vindhya Vihar Colony</item>
+        <item>Kundan Nagar</item>
+        <item>Naugrah Temple</item>
+        <item>Head Post Office</item>
+    </string-array>
+
+    <string-array name="city_12">
+        <item>Manjanpur</item>
+        <item>Gokul Nagar</item>
+        <item>Kamla Nagar</item>
+        <item>Rukmani Nagar</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
